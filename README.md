@@ -10,7 +10,7 @@
 
 ## How to Build (Code::Blocks / MinGW)
 1. Open project in Code::Blocks.
-2. Ensure `advapi32` is added to **Linker Settings**.
+2. Ensure `libadvapi32.a` is added to **Linker Settings**.
 3. Add static linking flags: `-static-libgcc -static-libstdc++ -static`.
 4. Compile and run as Administrator.
 
