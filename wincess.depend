@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1788248603 source:d:\wincess\wincess\main.cpp
+	<windows.h>
+	<iostream>
+	<cstdlib>
+	<string>
+
+1788247719 source:d:\wincess\wincess\resource.rc
+
